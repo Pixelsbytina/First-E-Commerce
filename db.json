@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rubik's Cube",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin diam non libero tempus bibendum. Nunc enim velit, placerat consectetur.",
+      "imageUrl": "./../assets/cube.png",
+      "price": 2.99
+     },
+     {
+      "id": 2,
+      "name": "Wooden Blocks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin diam non libero tempus bibendum. Nunc enim velit, placerat consectetur.",
+      "imageUrl": "./../assets/wooden.png",
+      "price": 7.99
+     }
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
